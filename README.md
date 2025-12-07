@@ -10,7 +10,7 @@ collection workspace
 ```
 
 ## LINKS
-[P1](https://limewire.com/d/ZbIsc#3Gc0IM2FSM)
+[link 1](https://limewire.com/d/ZbIsc#3Gc0IM2FSM)
 
 ### ⚠️DISCLAMER⚠️ 
 
